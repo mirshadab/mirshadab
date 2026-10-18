@@ -427,7 +427,7 @@ timeline
 
 | Category | Repos |
 | :-- | --: |
-| Studio and industry website builds | 41 |
+| Studio and industry model builds | 41 |
 | Platforms and products | 18 |
 | Prototypes and empty placeholders | 8 |
 | Forks studied (no commits of mine) | 3 |
