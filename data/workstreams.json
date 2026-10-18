@@ -1,0 +1,73 @@
+{
+ "source": "GitHub profile contribution activity ('Created N commits in M repositories'), per month, mapped to workstream categories; repository names withheld",
+ "collected_at": "2026-10-18",
+ "categories": {
+  "platform": "Platform & product engineering",
+  "data_ai": "Data & AI systems",
+  "collab": "Collaborator-owned repositories",
+  "studio": "Studio builds",
+  "tooling": "Profile & tooling"
+ },
+ "repositories_with_commits": 26,
+ "pull_requests": {
+  "opened": 4,
+  "merged": 1
+ },
+ "months": {
+  "2025-06": {
+   "platform": 4,
+   "collab": 1
+  },
+  "2025-07": {
+   "platform": 7,
+   "collab": 7
+  },
+  "2025-08": {
+   "platform": 6,
+   "collab": 5
+  },
+  "2025-09": {
+   "platform": 1
+  },
+  "2025-10": {
+   "platform": 18,
+   "collab": 6
+  },
+  "2025-12": {
+   "platform": 1
+  },
+  "2026-02": {
+   "platform": 16,
+   "studio": 13
+  },
+  "2026-03": {
+   "tooling": 6,
+   "studio": 1
+  },
+  "2026-05": {
+   "collab": 36,
+   "studio": 1
+  },
+  "2026-06": {
+   "platform": 75,
+   "collab": 74
+  },
+  "2026-07": {
+   "platform": 301,
+   "collab": 10
+  },
+  "2026-08": {
+   "platform": 10,
+   "collab": 4
+  },
+  "2026-09": {
+   "platform": 309,
+   "collab": 5
+  },
+  "2026-10": {
+   "data_ai": 35,
+   "platform": 35,
+   "collab": 1
+  }
+ }
+}

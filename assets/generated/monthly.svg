@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="t d">
+<title id="t">Contributions per month</title><desc id="d">Monthly GitHub contributions since the account was created. Dec 24: 1; Jan 25: 0; Feb 25: 0; Mar 25: 0; Apr 25: 0; May 25: 0; Jun 25: 9; Jul 25: 15; Aug 25: 11; Sep 25: 5; Oct 25: 25; Nov 25: 4; Dec 25: 2; Jan 26: 0; Feb 26: 43; Mar 26: 38; Apr 26: 1; May 26: 42; Jun 26: 151; Jul 26: 312; Aug 26: 15; Sep 26: 318; Oct 26: 74</desc>
+<rect width="900" height="300" rx="12" fill="#0D1117" stroke="#30363D"/>
+<text x="24" y="30" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#E6EDF3" text-anchor="start" font-weight="600">Contributions per month</text>
+<text x="876" y="30" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E" text-anchor="end" font-weight="400">peak Sep 26: 318</text>
+<line x1="56" y1="248.0" x2="876" y2="248.0" stroke="#161B22"/>
+<text x="48" y="252.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681" text-anchor="end" font-weight="400">0</text>
+<line x1="56" y1="199.0" x2="876" y2="199.0" stroke="#161B22"/>
+<text x="48" y="203.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681" text-anchor="end" font-weight="400">100</text>
+<line x1="56" y1="150.0" x2="876" y2="150.0" stroke="#161B22"/>
+<text x="48" y="154.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681" text-anchor="end" font-weight="400">200</text>
+<line x1="56" y1="101.0" x2="876" y2="101.0" stroke="#161B22"/>
+<text x="48" y="105.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681" text-anchor="end" font-weight="400">300</text>
+<line x1="56" y1="52.0" x2="876" y2="52.0" stroke="#161B22"/>
+<text x="48" y="56.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681" text-anchor="end" font-weight="400">400</text>
+<rect x="62.4" y="247.5" width="22.8" height="1.0" rx="3" fill="#238636"/>
+<text x="73.82608695652173" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Dec</text>
+<text x="73.82608695652173" y="278" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8B949E" text-anchor="middle" font-weight="400">2024</text>
+<rect x="98.1" y="248.0" width="22.8" height="1.0" rx="3" fill="#161B22"/>
+<text x="109.47826086956522" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Jan</text>
+<text x="109.47826086956522" y="278" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8B949E" text-anchor="middle" font-weight="400">2025</text>
+<rect x="133.7" y="248.0" width="22.8" height="1.0" rx="3" fill="#161B22"/>
+<text x="145.1304347826087" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Feb</text>
+<rect x="169.4" y="248.0" width="22.8" height="1.0" rx="3" fill="#161B22"/>
+<text x="180.7826086956522" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Mar</text>
+<rect x="205.0" y="248.0" width="22.8" height="1.0" rx="3" fill="#161B22"/>
+<text x="216.43478260869566" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Apr</text>
+<rect x="240.7" y="248.0" width="22.8" height="1.0" rx="3" fill="#161B22"/>
+<text x="252.08695652173913" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">May</text>
+<rect x="276.3" y="243.6" width="22.8" height="4.4" rx="3" fill="#238636"/>
+<text x="287.73913043478257" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Jun</text>
+<rect x="312.0" y="240.7" width="22.8" height="7.3" rx="3" fill="#238636"/>
+<text x="323.39130434782606" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Jul</text>
+<rect x="347.6" y="242.6" width="22.8" height="5.4" rx="3" fill="#238636"/>
+<text x="359.0434782608695" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Aug</text>
+<rect x="383.3" y="245.6" width="22.8" height="2.5" rx="3" fill="#238636"/>
+<text x="394.695652173913" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Sep</text>
+<rect x="418.9" y="235.8" width="22.8" height="12.2" rx="3" fill="#238636"/>
+<text x="430.34782608695645" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Oct</text>
+<rect x="454.6" y="246.0" width="22.8" height="2.0" rx="3" fill="#238636"/>
+<text x="465.99999999999994" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Nov</text>
+<rect x="490.2" y="247.0" width="22.8" height="1.0" rx="3" fill="#238636"/>
+<text x="501.65217391304344" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Dec</text>
+<rect x="525.9" y="248.0" width="22.8" height="1.0" rx="3" fill="#161B22"/>
+<text x="537.304347826087" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Jan</text>
+<text x="537.304347826087" y="278" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8B949E" text-anchor="middle" font-weight="400">2026</text>
+<rect x="561.5" y="226.9" width="22.8" height="21.1" rx="3" fill="#238636"/>
+<text x="572.9565217391305" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Feb</text>
+<rect x="597.2" y="229.4" width="22.8" height="18.6" rx="3" fill="#238636"/>
+<text x="608.6086956521739" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Mar</text>
+<rect x="632.9" y="247.5" width="22.8" height="1.0" rx="3" fill="#238636"/>
+<text x="644.2608695652174" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Apr</text>
+<rect x="668.5" y="227.4" width="22.8" height="20.6" rx="3" fill="#238636"/>
+<text x="679.9130434782609" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">May</text>
+<rect x="704.2" y="174.0" width="22.8" height="74.0" rx="3" fill="#238636"/>
+<text x="715.5652173913044" y="168.01" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8B949E" text-anchor="middle" font-weight="400">151</text>
+<text x="715.5652173913044" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Jun</text>
+<rect x="739.8" y="95.1" width="22.8" height="152.9" rx="3" fill="#2EA043"/>
+<text x="751.2173913043478" y="89.12" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8B949E" text-anchor="middle" font-weight="400">312</text>
+<text x="751.2173913043478" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Jul</text>
+<rect x="775.5" y="240.7" width="22.8" height="7.3" rx="3" fill="#238636"/>
+<text x="786.8695652173913" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Aug</text>
+<rect x="811.1" y="92.2" width="22.8" height="155.8" rx="3" fill="#2EA043"/>
+<text x="822.5217391304348" y="86.18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8B949E" text-anchor="middle" font-weight="400">318</text>
+<text x="822.5217391304348" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Sep</text>
+<rect x="846.8" y="211.7" width="22.8" height="36.3" rx="3" fill="#238636"/>
+<text x="858.1739130434783" y="205.74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8B949E" text-anchor="middle" font-weight="400">74</text>
+<text x="858.1739130434783" y="264" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="middle" font-weight="400">Oct</text>
+<text x="24" y="290" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#6E7681" text-anchor="start" font-weight="400">Source: GitHub contribution calendar (commits, PRs, issues, reviews and repository creation).</text>
+</svg>

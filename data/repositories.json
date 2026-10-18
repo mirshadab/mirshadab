@@ -1,0 +1,26 @@
+{
+ "source": "github.com/mirshadab?tab=repositories (authenticated, owner view) and public REST API",
+ "collected_at": "2026-10-18",
+ "total": 72,
+ "public": 14,
+ "private": 58,
+ "forks": 3,
+ "primary_language": {
+  "TypeScript": 50,
+  "Vue": 5,
+  "Astro": 3,
+  "Python": 3,
+  "JavaScript": 1,
+  "HTML": 1,
+  "None detected": 9
+ },
+ "categories": {
+  "Studio and industry website builds": 41,
+  "Platforms and products": 18,
+  "Data and AI systems": 1,
+  "Forks studied (no own commits)": 3,
+  "Prototypes and empty placeholders": 8,
+  "Profile": 1
+ },
+ "categories_method": "Manual classification of repository names and stacks during the 2026-10-18 audit; names withheld."
+}

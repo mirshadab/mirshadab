@@ -1,0 +1,12 @@
+{
+ "snapshot": "2026-10-18",
+ "note": "Figures quoted in README prose and tables. Must equal the values derived from the snapshot data; tests/test_profile.py enforces this.",
+ "contributions_last_365_days": 1025,
+ "contributions_by_year": {"2024": 1, "2025": 71, "2026": 994},
+ "commits_attributed": 988,
+ "repositories_with_commits": 26,
+ "best_day": {"date": "2026-07-05", "count": 86},
+ "peak_month": {"month": "2026-09", "count": 318},
+ "pull_requests": {"opened": 4, "merged": 1},
+ "repositories": {"total": 72, "private": 58, "public": 14, "forks": 3}
+}

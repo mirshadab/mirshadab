@@ -1,0 +1,34 @@
+{
+ "account_created": "2024-12-13",
+ "active_days_last_365": 126,
+ "active_days_total": 143,
+ "best_day": {
+  "count": 86,
+  "date": "2026-07-05"
+ },
+ "collected_at": "2026-10-18",
+ "commits_attributed": 988,
+ "contributions_by_year": {
+  "2024": 1,
+  "2025": 71,
+  "2026": 994
+ },
+ "contributions_last_365_days": 1025,
+ "longest_active_streak_days": 10,
+ "peak_month": {
+  "count": 318,
+  "month": "2026-09"
+ },
+ "pull_requests": {
+  "merged": 1,
+  "opened": 4
+ },
+ "repositories": {
+  "forks": 3,
+  "private": 58,
+  "public": 14,
+  "total": 72
+ },
+ "repositories_with_commits": 26,
+ "total_contributions": 1066
+}

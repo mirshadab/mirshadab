@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Mir Shadab</title>
+  <desc id="d">Mir Shadab. Systems engineer working across full-stack platforms, data pipelines and LLM systems. Co-founder, Whipp Studio.</desc>
+  <defs>
+    <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#E6EDF3" stroke-opacity="0.045"/></pattern>
+    <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#0D1117" stop-opacity="0"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+    <clipPath id="c"><rect width="1200" height="300" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="300" fill="#0D1117"/>
+    <rect width="1200" height="300" fill="url(#g)"/>
+    <!-- pipeline motif: sources → normalise → store → model → validate -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8B949E">
+      <g stroke="#30363D" stroke-width="1.5" fill="none">
+        <path d="M760 110 H840"/><path d="M908 110 H968"/><path d="M1036 110 H1080 V170"/><path d="M1080 206 V230 H1000"/><path d="M932 230 H872"/>
+      </g>
+      <g fill="#161B22" stroke="#30363D">
+        <rect x="692" y="92" width="68" height="36" rx="6"/><rect x="840" y="92" width="68" height="36" rx="6"/>
+        <rect x="968" y="92" width="68" height="36" rx="6"/><rect x="1046" y="170" width="68" height="36" rx="6" stroke="#A371F7"/>
+        <rect x="932" y="212" width="68" height="36" rx="6"/><rect x="804" y="212" width="68" height="36" rx="6" stroke="#2EA043"/>
+      </g>
+      <text x="726" y="114" text-anchor="middle">sources</text><text x="874" y="114" text-anchor="middle">normalise</text>
+      <text x="1002" y="114" text-anchor="middle">store</text><text x="1080" y="192" text-anchor="middle" fill="#A371F7">model</text>
+      <text x="966" y="234" text-anchor="middle">validate</text><text x="838" y="234" text-anchor="middle" fill="#2EA043">decide</text>
+    </g>
+    <rect x="560" width="240" height="300" fill="url(#fade)" transform="scale(-1 1) translate(-1360 0)"/>
+    <text x="64" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="52" font-weight="700" fill="#E6EDF3" letter-spacing="-1">Mir Shadab</text>
+    <text x="66" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#8B949E">Systems engineer · platforms, data pipelines, LLM systems</text>
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
+      <rect x="66" y="178" width="200" height="28" rx="14" fill="#161B22" stroke="#30363D"/><text x="166" y="197" text-anchor="middle" fill="#E6EDF3">Co-founder, Whipp Studio</text>
+      <rect x="276" y="178" width="152" height="28" rx="14" fill="#161B22" stroke="#30363D"/><text x="352" y="197" text-anchor="middle" fill="#E6EDF3">Srinagar · remote</text>
+      <rect x="438" y="178" width="160" height="28" rx="14" fill="#0F2A17" stroke="#2EA043"/><text x="518" y="197" text-anchor="middle" fill="#3FB950">open to contracts</text>
+    </g>
+    <text x="66" y="258" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6E7681">github.com/mirshadab  ·  whipp.studio</text>
+  </g>
+</svg>
